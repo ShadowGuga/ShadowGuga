@@ -2,7 +2,7 @@
 - 👀 I’m interested in nothing 
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me just discord ShadowGuga#4444
+- 📫 How to reach me just discord ShadowGuga
 
 <!---
 ShadowGuga/ShadowGuga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
